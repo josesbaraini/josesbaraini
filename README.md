@@ -1,4 +1,5 @@
 ## Github
+I am a programmer and student in the field, committed to developing robust and secure systems capable of solving problems efficiently.
 <div align="center">
       <img width="400px" src="https://github-readme-stats.vercel.app/api?username=josesbaraini&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
       <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=josesbaraini&theme=blue_navy&hide_border=true"/>
@@ -7,11 +8,11 @@
       
 </div>
 
-## Ferramentas 
+## Tools
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,vscode,github,mysql" />
 
 
-## Estudando
+## Learning
 <img src="https://skillicons.dev/icons?i=ts,java" />
 
 ## Socials
